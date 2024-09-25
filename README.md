@@ -3,8 +3,8 @@
 Uygulama çalıştığında bizi karşılayan ekranımız "Kredİ Ekranı"dır.
 
 1)KREDİ ÖN BAŞVURU EKRANI
-"Kredi Ekranı" içinde sekme olarak yer alan "Kredi Ön Başvuru" ekranında önceden yapılan kredi başvurularını görüntüleyebilir ya da veritabanına kayıtlı olan müşterilerin müşteri no'larını girerek yeni kredi başvurusu oluşturabiliriz.
-<img width="526" alt="image" src="https://github.com/user-attachments/assets/67645a8a-addc-476a-a683-5e3df8675fa0">
+"Kredi Ekranı" içinde sekme olarak yer alan "Kredi Ön Başvuru" ekranında önceden yapılan kredi başvurularını görüntüleyebilir ya da veritabanına kayıtlı olan müşterilerin müşteri no'larını girerek yeni kredi başvurusu oluşturabiliriz. <br><br>
+<img width="526" alt="image" src="https://github.com/user-attachments/assets/67645a8a-addc-476a-a683-5e3df8675fa0"><br>
 
 
 

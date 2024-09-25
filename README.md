@@ -30,5 +30,35 @@ Ekranımızın sol panelinde önceden tanımlı olan Kredi Türlerimizi güncell
 
 Veri Tabanı Tabloları
 1)Müşteri Bilgileri
-2)Başvurular
-![alt text](image-1.png)
+Müşteri bilgileri "MusteriBilgiler" adlı tabloya kaydedilir.<br><br>
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/cb09f320-8bd9-43bd-96a7-69f07777484f"><br>
+
+2)Kredi Başvuruları
+"Kredi Ön Başvuru" ekranında oluşturulan başvurular "Basvurular"adlı tabloya kaydedilir.<br><br>
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/eecd0190-4ac7-41ab-96fc-633e812accf8"><br>
+
+3)Kredi Türleri
+Kredi türleri ve koşulları "Urun" adlı tabloya kaydedilir.<br><br>
+<img width="740" alt="image" src="https://github.com/user-attachments/assets/18ff01ef-45a5-4768-9dd8-664f2fd8b447"><br>
+
+4)Başvuru Detay
+"Detay Ekranı"ndan alınan bilgiler buraya kaydedilir.<br><br>
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/4a4b9ef1-4734-4054-aa8b-c569a524357d"><br>
+
+5)Kredi Kartı Başvuru
+"Kredi Kartı Başvuru" ekranından girilen bilgiler buraya kaydedilir.<br><br>
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/3c7c4eae-5fcf-42fa-8d85-275b192101ba"><br>
+
+
+6)Bireysel Kredi Kartları
+"Kredi Kartı Başvuru" ekranında sunulan bireysel kredi kartları türleri "BireyselKrediKartlari"nda kaydedilir.<br><br>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/84585d7b-6fc9-4d15-a2f8-32db879f8bfe"><br>
+
+
+7)Ticari Kredi Kartları
+"Kredi Kartı Başvuru" ekranında sunulan ticari kredi kartları türleri "TicariKrediKartlari"nda kaydedilir.<br><br>
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/de56cc55-7ed9-4f74-b983-d8081ee5f9ef"><br>
+
+8)İl Seçenekleri
+"Kredi Kartı Başvuru" ekranında sunulan iller "Il"e kaydedilir.<br><br>
+<img width="199" alt="image" src="https://github.com/user-attachments/assets/2bf77fa9-1f15-4dbb-adfa-667efa94145f"><br>

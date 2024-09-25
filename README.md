@@ -2,7 +2,7 @@
 
 Uygulama çalıştığında bizi karşılayan ekranımız "Kredİ Ekranı"dır.
 
-1)KREDİ ÖN BAŞVURU EKRANI
+1)KREDİ ÖN BAŞVURU EKRANI<br><br>
 "Kredi Ekranı" içinde sekme olarak yer alan "Kredi Ön Başvuru" ekranında önceden yapılan kredi başvurularını görüntüleyebilir ya da veritabanına kayıtlı olan müşterilerin müşteri no'larını girerek yeni kredi başvurusu oluşturabiliriz. <br><br>
 <img width="526" alt="image" src="https://github.com/user-attachments/assets/67645a8a-addc-476a-a683-5e3df8675fa0"><br>
 
@@ -11,14 +11,14 @@ Uygulama çalıştığında bizi karşılayan ekranımız "Kredİ Ekranı"dır.
 Bu ekrandan bir başvuru seçilip ardından Detay butonuna basılırsa ikinci ekranımız olan 
 "Detay Ekranı" bizi karşılar.
 
-2)DETAY EKRANI
+2)DETAY EKRANI<br><br>
 Bu ekranda, "Kredi Ön Başvuru" ekranından seçtiğimiz başvurunun ayrıntılarını görüntüleyebilir ve "Başvuru Detay" panelinde başvurunun kalan bilgilerini girebiliriz. <br><br>
 <img width="572" alt="Detay Ekranı" src="https://github.com/user-attachments/assets/337d3c13-4619-40fe-9637-73a7da5050de"> <br>
 
 
 Bu ekranda bulunan "Ürün Güncelleme" butonuna basıldığında üçüncü ekranımız olan "Ürün Güncelleme"ye geçiş yapar.
 
-3)ÜRÜN GÜNCELLEME
+3)ÜRÜN GÜNCELLEME<br><br>
 Ekranımızın sol panelinde önceden tanımlı olan Kredi Türlerimizi güncelleyebilir ya da silebiliriz.Sağ panelinde ise yeni Kredi Türleri oluşturabiliriz. <br><br>
 <img width="382" alt="image" src="https://github.com/user-attachments/assets/923d159b-179b-4d2e-abf1-24ef0ee37769"> <br>
 

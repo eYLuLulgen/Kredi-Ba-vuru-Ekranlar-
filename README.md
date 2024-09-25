@@ -47,7 +47,7 @@ Kredi türleri ve koşulları "Urun" adlı tabloya kaydedilir.<br><br>
 
 5)Kredi Kartı Başvuru
 "Kredi Kartı Başvuru" ekranından girilen bilgiler buraya kaydedilir.<br><br>
-<img width="708" alt="image" src="https://github.com/user-attachments/assets/3c7c4eae-5fcf-42fa-8d85-275b192101ba"><br>
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/530f2a98-6537-4ad5-a797-219868d01a5e"><br>
 
 
 6)Bireysel Kredi Kartları

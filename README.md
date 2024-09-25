@@ -12,17 +12,17 @@ Bu ekrandan bir başvuru seçilip ardından Detay butonuna basılırsa ikinci ek
 "Detay Ekranı" bizi karşılar.
 
 2)DETAY EKRANI
-Bu ekranda, "Kredi Ön Başvuru" ekranından seçtiğimiz başvurunun ayrıntılarını görüntüleyebilir ve "Başvuru Detay" panelinde başvurunun kalan bilgilerini girebiliriz.
-<img width="572" alt="Detay Ekranı" src="https://github.com/user-attachments/assets/337d3c13-4619-40fe-9637-73a7da5050de">
+Bu ekranda, "Kredi Ön Başvuru" ekranından seçtiğimiz başvurunun ayrıntılarını görüntüleyebilir ve "Başvuru Detay" panelinde başvurunun kalan bilgilerini girebiliriz. <br><br>
+<img width="572" alt="Detay Ekranı" src="https://github.com/user-attachments/assets/337d3c13-4619-40fe-9637-73a7da5050de"> <br>
 
 
 Bu ekranda bulunan "Ürün Güncelleme" butonuna basıldığında üçüncü ekranımız olan "Ürün Güncelleme"ye geçiş yapar.
 
 3)ÜRÜN GÜNCELLEME
-Ekranımızın sol panelinde önceden tanımlı olan Kredi Türlerimizi güncelleyebilir ya da silebiliriz.Sağ panelinde ise yeni Kredi Türleri oluşturabiliriz.
-<img width="382" alt="image" src="https://github.com/user-attachments/assets/923d159b-179b-4d2e-abf1-24ef0ee37769">
+Ekranımızın sol panelinde önceden tanımlı olan Kredi Türlerimizi güncelleyebilir ya da silebiliriz.Sağ panelinde ise yeni Kredi Türleri oluşturabiliriz. <br><br>
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/923d159b-179b-4d2e-abf1-24ef0ee37769"> <br>
 
 
 4)KREDİ KARTI BAŞVURU EKRANI
-"Kredi Ekranı" içinde sekme olarak yer alan "Kredi Kartı Başvuru" ekranında kredi kartı başvurusu yapılır.
-<img width="531" alt="image" src="https://github.com/user-attachments/assets/7d0e2eeb-0272-4d40-a2a5-601c888fd267">
+"Kredi Ekranı" içinde sekme olarak yer alan "Kredi Kartı Başvuru" ekranında kredi kartı başvurusu yapılır. <br><br>
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/7d0e2eeb-0272-4d40-a2a5-601c888fd267"> <br>

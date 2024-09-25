@@ -26,3 +26,9 @@ Ekranımızın sol panelinde önceden tanımlı olan Kredi Türlerimizi güncell
 4)KREDİ KARTI BAŞVURU EKRANI
 "Kredi Ekranı" içinde sekme olarak yer alan "Kredi Kartı Başvuru" ekranında kredi kartı başvurusu yapılır. <br><br>
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/7d0e2eeb-0272-4d40-a2a5-601c888fd267"> <br>
+
+
+Veri Tabanı Tabloları
+1)Müşteri Bilgileri
+2)Başvurular
+![alt text](image-1.png)
